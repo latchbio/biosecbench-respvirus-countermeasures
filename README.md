@@ -1,5 +1,5 @@
 
-# RespVirus-Counter
+# BioSecBench-Respvirus-Countermeasures
 
 **Benchmarking the analytical reasoning of AI agents for respiratory virus countermeasures**
 
